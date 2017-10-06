@@ -1,4 +1,4 @@
-%ParticleInstensity 
+%ParticleIntensity 
 %Author: David Podorefsky, October6th2017
 
 %Z range to measure
